@@ -56,5 +56,7 @@
 📱 Контакты
 
 [Telegram канал](https://t.me/privatekey7)
+
 [GitHub](https://github.com/privatekey7)
+
 [Powered by Pavel Durov](https://t.me/duroff_pavel)
