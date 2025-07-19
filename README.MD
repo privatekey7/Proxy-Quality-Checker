@@ -59,4 +59,4 @@
 
 [GitHub](https://github.com/privatekey7)
 
-[Powered by Pavel Durov](https://t.me/duroff_pavel)
+[Powered by Andrey PrivateKey](https://t.me/Andrey_PrivateKey)
