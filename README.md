@@ -1,6 +1,8 @@
 # 🔍 Proxy Quality Checker
 
-Инструмент для массовой проверки качества прокси-серверов с использованием PixelScan API. Автоматически проверяет прокси, определяет их качество и сохраняет результаты в отдельные файлы.
+Инструмент для массовой проверки качества HTTP/HTTPS прокси-серверов с использованием PixelScan API. Автоматически проверяет прокси, определяет их качество и сохраняет результаты в отдельные файлы.
+
+**⚠️ Важно:** Инструмент проверяет **HTTP и HTTPS прокси**. SOCKS прокси не поддерживаются.
 
 **GitHub:** [https://github.com/privatekey7/Proxy-Quality-Checker](https://github.com/privatekey7/Proxy-Quality-Checker)
 
@@ -92,7 +94,8 @@ Telegram Channel: [https://t.me/privatekey7](https://t.me/privatekey7)
 
 ## ⚠️ Примечания
 
-- Убедитесь, что файл `proxy.txt` существует и содержит валидные прокси
+- **Инструмент проверяет HTTP и HTTPS прокси** (SOCKS не поддерживается)
+- Убедитесь, что файл `proxy.txt` существует и содержит валидные HTTP/HTTPS прокси
 - Проверка выполняется через PixelScan API
 - Таймаут для каждого прокси составляет 15 секунд
 - Результаты сохраняются только для прокси, которые были успешно проверены
@@ -105,7 +108,9 @@ Telegram Channel: [https://t.me/privatekey7](https://t.me/privatekey7)
 
 # 🔍 Proxy Quality Checker
 
-A tool for bulk checking proxy server quality using PixelScan API. Automatically checks proxies, determines their quality, and saves results to separate files.
+A tool for bulk checking HTTP/HTTPS proxy server quality using PixelScan API. Automatically checks proxies, determines their quality, and saves results to separate files.
+
+**⚠️ Important:** The tool checks **HTTP and HTTPS proxies**. SOCKS proxies are not supported.
 
 **GitHub:** [https://github.com/privatekey7/Proxy-Quality-Checker](https://github.com/privatekey7/Proxy-Quality-Checker)
 
@@ -197,7 +202,8 @@ Telegram Channel: [https://t.me/privatekey7](https://t.me/privatekey7)
 
 ## ⚠️ Notes
 
-- Make sure the `proxy.txt` file exists and contains valid proxies
+- **The tool checks HTTP and HTTPS proxies** (SOCKS is not supported)
+- Make sure the `proxy.txt` file exists and contains valid HTTP/HTTPS proxies
 - Checking is performed through PixelScan API
 - Timeout for each proxy is 15 seconds
 - Results are saved only for proxies that were successfully checked
