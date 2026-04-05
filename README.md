@@ -90,7 +90,7 @@ Proxy_Quality_Checker/
 
 ## 📞 Контакты
 
-Telegram Channel: [https://t.me/privatekey7](https://t.me/privatekey7)
+Telegram Channel: [https://t.me/privatekey7](https://t.me/privatekey_ai)
 
 ## ⚠️ Примечания
 
@@ -198,7 +198,7 @@ Proxy_Quality_Checker/
 
 ## 📞 Contacts
 
-Telegram Channel: [https://t.me/privatekey7](https://t.me/privatekey7)
+Telegram Channel: [https://t.me/privatekey7](https://t.me/privatekey_ai)
 
 ## ⚠️ Notes
 
